@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AutoResponder LastSave="2020-12-04T12:35:37.4606837+08:00" FiddlerVersion="5.0.0.0">
+  <State Enabled="true" AcceptAllConnects="false" Fallthrough="true" UseLatency="false">
+    <ResponseRule Match="method:POST https://inent.sdufe.edu.cn/api/video/pictureComparison" Action="http://127.0.0.1:80" Enabled="true" />
+  </State>
+</AutoResponder>
